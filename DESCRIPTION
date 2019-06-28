@@ -13,7 +13,7 @@ Description: R interface sending requests to AmiGO visualize,
 License: Artistic-2.0
 LazyLoad: yes
 Depends: gsubfn,methods
-Imports: igraph,RCurl,png,RCytoscape,graph
+Imports: igraph,RCurl,png,RCy3,graph
 Packaged: 2011-07-11 18:11:40 UTC; mschroed
 biocViews: GO, Visualization, GraphAndNetwork, Classification,
         ThirdPartyClient
